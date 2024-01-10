@@ -1,0 +1,67 @@
+*{
+    margin: 00;
+    padding: 00;
+}
+/* Heading */
+.d1{
+color: rgb(0, 0, 0);
+/* margin-left: 50%; */
+margin-left: 40%;
+/* padding: px; */
+margin-top: 00;
+margin-right: 50px;
+}
+
+.home{
+    /* background-image: url(/webdvlp.jpg); */
+background-image: url(/image/cafe-3537801_1280.jpg);
+    background-repeat: no-repeat;
+   
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+
+padding-top: 250px;
+
+}
+/* paragraph */
+.para1{
+    color: rgb(173, 19, 19);
+
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+margin-top: 150px;
+
+
+}
+/* button */
+
+
+.btn1{
+    color: rgb(194, 33, 33);
+    background-color: rgb(231, 231, 238);
+    margin-left: 50%;
+    padding: 5px 12px;
+    margin-top: 300px;
+    border-radius: 07px;
+    border-color: rgb(8, 14, 2);
+    box-shadow: 02px 03px rgb(199, 169, 169) ;
+    cursor: pointer;
+    opacity: .9;
+    transition: .6;
+     padding-bottom: 5px;         
+      }
+    .hh1{
+        border: 5px;
+        border-radius: 3px;
+        bo
+    }
+
+    /* git init
+git add ./
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Hanif090/registration-form.git
+git push -u origin main */
